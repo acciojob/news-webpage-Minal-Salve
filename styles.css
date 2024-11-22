@@ -19,11 +19,11 @@
 	margin: 20px 5px;
 	align-items:center;
 	border-radius:10px;
-	
+	height:auto;
 }
  h2, li., p{
 	 	text-align:center;
  }
  img{
-	 width:250px;
+	 width:150px;
  }
